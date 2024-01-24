@@ -1,0 +1,3 @@
+function codificar(texto) {
+    
+}
