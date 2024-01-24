@@ -4,10 +4,4 @@ function tituloDoSite() {
     return greeting;
 }
 
-function rodape() {
-    let rodape = document.querySelector('footer');
-    rodape.innerText = 'Erick Rodrigues 2024';
-}
-
 tituloDoSite();
-rodape();
